@@ -1,0 +1,20 @@
+recipe:
+  lang: fr
+
+ingredients:
+  - orties
+  - basilic
+  - roquette
+  - huile d'olive
+  - pignons de pain
+  - (noisettes) 
+  - parmesant
+
+steps:
+  - mixer les noix
+  - rajouter les herbes progresivement et mixer
+  - rajouter le parmesant
+  - rajouter l'huile
+
+    #img:
+    #/path/to/image    USE convention over config
